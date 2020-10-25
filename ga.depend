@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1603628998 source:c:\users\shouming\desktop\ga\main.c
+	<stdio.h>
+	"ga.h"
+	"config.h"
+
+1603622973 c:\users\shouming\desktop\ga\ga.h
+	<stdio.h>
+	<stdlib.h>
+	"config.h"
+
+1603633213 c:\users\shouming\desktop\ga\config.h
+	<stdio.h>
+	<stdlib.h>
+
+1603612321 source:c:\users\shouming\desktop\ga\config.c
+	"config.h"
+
+1603629843 source:c:\users\shouming\desktop\ga\ga.c
+	"ga.h"
+
